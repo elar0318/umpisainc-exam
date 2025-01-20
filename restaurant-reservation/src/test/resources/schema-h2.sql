@@ -1,0 +1,1 @@
+create table reservation_request (id int, customer_name varchar(255), email varchar(255), number_of_guests integer not null, phone_number varchar(255), reservation_date timestamp(6));
